@@ -12,6 +12,10 @@ public class BubbleSort {
 
 
 // second change
+        System.out.println("ASD");
+
+
+
         for (int i = 0; i < massive.length; i++) {
             System.out.print(massive[i] + " ");
         }
