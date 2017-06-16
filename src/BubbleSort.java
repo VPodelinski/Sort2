@@ -9,6 +9,7 @@ public class BubbleSort {
     public static void main(String[] args) {
         int[] massive = {8,15,56,7,2,3,99,45,12,6};
         System.out.println("!!!!!!!!!");
+        System.out.println("2344");
 
 
 // second change
